@@ -115,9 +115,16 @@ def extract_items_from_html(url):
                     items.append(obj)
                     obj = {}
                 else:
-                    # 収集対象外
-                    pass
-                    # print(f"=== {txt} ===")
+                    if txt.startswith("1　お知らせ（警察・消防・ごみ量）") and p.find('a'):
+                        items.append({
+                            'index':0,
+                            'title':'警察・消防・ごみ量',
+                            'detail':["お知らせ（警察・消防・ごみ量）"],
+                            'url':p.find('a')['href']
+                        })
+                    else:
+                        # 収集対象外
+                        pass
     return items
 
 def get_month_link(url, selector):
@@ -175,6 +182,7 @@ def make_markdown(objs):
     ols.append("# 区連会からの情報")
     for obj in objs:
         ols.append(f"## {obj['year']}年 {obj['month']}月")
+        oshirases = []
         keijis = []
         kairans = []
         other = []
@@ -183,9 +191,15 @@ def make_markdown(objs):
                 keijis.append(item)
             elif item['type'] == "回覧":
                 kairans.append(item)
+            elif item['type'] == "お知らせ":
+                oshirases.append(item)
             else:
                 other.append(item)
 
+        if 0 < len(oshirases):
+            ols.append(f"### お知らせ")
+            for item in oshirases:
+                ols.append(f"- [{item['description']}]({item['url']})") 
         if 0 < len(keijis):
             ols.append(f"### 掲示板")
             for item in keijis:
@@ -198,6 +212,7 @@ def make_markdown(objs):
         for item in other:
             ols.append(f"- [{item['description']}]({item['url']}) ({item['type']})") 
     return ols
+
 if __name__ == "__main__":
     month_items = []
     month_infos = get_math_infos()
@@ -216,7 +231,18 @@ if __name__ == "__main__":
 
     for obj in month_items:
         obj['items'] = []
-        if len(obj['items_from_pdf']) == len(obj['items_from_html']):
+        
+        if len(obj['items_from_pdf']) + 1 == len(obj['items_from_html']):
+            oshirase = [item for item in obj['items_from_html'] if item['index'] == 0][0]
+            obj['items'].append({
+                'index':0,
+                'title':oshirase['detail'][0],
+                'section':oshirase['title'],
+                'type':"お知らせ",
+                'description':"警察、消防、環境からのお知らせ",
+                'url':oshirase['url']
+            })
+        if len(obj['items_from_pdf']) + 1 == len(obj['items_from_html']) or len(obj['items_from_pdf']) == len(obj['items_from_html']):
             for p_item in obj['items_from_pdf']:
                 for h_item in obj['items_from_html']:
                     if p_item['index'] == h_item['index']:

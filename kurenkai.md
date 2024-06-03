@@ -1,5 +1,7 @@
 # 区連会からの情報
 ## 2024年 5月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/05/f160ffd9ed190b273922ec67b74b7d0c.pdf)
 ### 掲示板
 - [「公園愛護会のつどい及び公園愛護会展示会」を開催しますので、チラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/05/5.pdf)
 - [令和６年６月から、エコハマ（横浜市エコ家電応援キャンペーン第２弾）が実施されますので、掲示板への掲出を依頼します。](https://rarea.events/rarea/wp-content/uploads/2024/05/0803388500814c3cab0bdacdc2c7acdf.pdf)
@@ -19,6 +21,8 @@
 - [令和６年度戸塚区運営方針を策定しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/05/42bf7b63ddb76b8659eb7d203da041d0.pdf) (情報提供)
 - [補助金の案内チラシについて、新たな情報を追記しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/05/3f9e72371a2bb2c080400d3050bd1310.pdf) (町内会１部)
 ## 2024年 4月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/04/5088a9a8e4c00ba690ddbfb7bf987c57.pdf)
 ### 掲示板
 - [令和６年度の家庭防災員研修について、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/04/5.pdf)
 - [GREEN×EXPO 2027の広報チラシを自治会町内会の掲示板に掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/04/8.pdf)
@@ -36,6 +40,8 @@
 - [本補助金における訪問アドバイザー派遣及び補助対象となる会館の拡大について、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/04/13.pdf) (町内会１部)
 - [加入促進用リーフレットを作成しましたので、ご活用ください。](https://rarea.events/rarea/wp-content/uploads/2024/04/14.pdf) (町内会１部)
 ## 2024年 3月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/03/f160ffd9ed190b273922ec67b74b7d0c.pdf)
 ### 掲示板
 - [受託事業者の社名変更の周知のため、掲示板への掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/03/2.pdf)
 - [戸塚駅西口周辺の道路の一部区間が、５月８日（水）の14時より駐停車禁止になりますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/03/05474255315bdd64d87292773f096aaf.pdf)
@@ -68,6 +74,8 @@
 - [自治会町内会館脱炭素推進事業の制度の詳細が決まりましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/02/82ac74f1543371a42b8112fa93e6a503.pdf) (町内会１部)
 - [戸塚区交通安全功労者の推薦をお願いします。推薦期限：３月18日（月）表彰式 ：６月28日（金）](https://rarea.events/rarea/wp-content/uploads/2024/02/05c7cb6bfdc4d6bf1662e447f62fb496.pdf) (依頼)
 ## 2024年 1月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/01/b935bff3c2138bf2c62a924592139189.pdf)
 ### その他
 - [「ヨコハマプラ5.3（ごみ）計画」を策定しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/01/1.pdf) (町内会１部)
 - [物価高騰により、住民税非課税世帯に支援給付金を支給しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/01/2.pdf) (町内会１部)
@@ -75,6 +83,8 @@
 - [令和５年６月に実施した区民意識調査について、調査結果をお知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/01/4.pdf) (情報提供)
 - [脱炭素社会の実現に向け、自治会町内会館の省エネ設備についての補助制度について、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/01/5.pdf) (町内会１部)
 ## 2023年 11月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/11/b935bff3c2138bf2c62a924592139189.pdf)
 ### 掲示板
 - [令和６年戸塚区消防出初式を開催しますので、ポスター掲出をお願いします。日時：令和６年１月６日（土）10時から13時まで](https://rarea.events/rarea/wp-content/uploads/2023/11/5.pdf)
 - [12 月31 日（日）から１月３日（水）まで、お休みになりますのでご注意ください。](https://rarea.events/rarea/wp-content/uploads/2023/11/6.pdf)
@@ -93,6 +103,8 @@
 - [「自治会町内会のための講習会」について、事例発表を収録した動画をYouTube配信しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/11/14.pdf) (町内会１部)
 - [青少年指導員の推薦について、ご協力お願いします。締切：令和６年２月８日(木)](https://rarea.events/rarea/wp-content/uploads/2023/11/15.pdf) (町内会１部)
 ## 2023年 10月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/10/3d0698db384595a539e373371d034e36.pdf)
 ### 掲示板
 - [秋の火災予防運動を実施しますので、掲示板へのポスター掲出をお願いします。運動期間：11月9日～11月15日](https://rarea.events/rarea/wp-content/uploads/2023/10/2.pdf)
 ### その他
@@ -105,6 +117,8 @@
 - [広報誌「のばそう愛の手第37号」を発行しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/10/8.pdf) (町内会１部)
 - [「在宅避難」を周知するため、戸塚区「お家で避難」リーフレットを作成しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/10/9.pdf) (町内会１部)
 ## 2023年 9月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/09/2092d0e48e8b521384747f795d46cace-1.pdf)
 ### 掲示板
 - [災害時医療のぼり旗掲出訓練を実施しますので、チラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2023/09/08.pdf)
 - [「2023とつか宿場まつり」を開催しますので、チラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2023/09/09.pdf)
@@ -117,6 +131,8 @@
 - [第３期健康横浜２１素案のパブリックコメントを実施しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/09/ab7e5de11e99c7938707ae59d335d407.pdf) (町内会１部)
 - [とつかハートプラン活動発表会を開催しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/09/07.pdf) (町内会１部)
 ## 2023年 7月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/07/b935bff3c2138bf2c62a924592139189.pdf)
 ### その他
 - [令和５年度共同募金資材を各自治会町内会へ送付します。](https://rarea.events/rarea/wp-content/uploads/2023/07/1.pdf) (依頼)
 - [「共同募金とつかだより」の全戸配布について、ご協力をお願いします。](https://rarea.events/rarea/wp-content/uploads/2023/07/2.pdf) (依頼)
@@ -126,6 +142,8 @@
 - [横浜市青少年指導員年齢要件の上限の見直しについて、情報提供します。](https://rarea.events/rarea/wp-content/uploads/2023/07/6.pdf) (町内会１部)
 - [「自治会町内会に対する依頼の見直しに向けたアンケート」についての結果報告及び今後の対応案について、情報提供します。](https://rarea.events/rarea/wp-content/uploads/2023/07/7.pdf) (町内会１部)
 ## 2023年 6月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/06/cb64dc8357f202bcd558065f4c149c86.pdf)
 ### その他
 - [令和5年度戸塚区スポーツ協会会費をお納めください。納入期限：９月29日](https://rarea.events/rarea/wp-content/uploads/2023/06/1.pdf) (依頼)
 - [今年度から制度化した「市民主体の身近な施設整備」の支援メニューについて、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/06/2.pdf) (町内会1部)
@@ -136,6 +154,8 @@
 - [電力・ガス・食料品等の価格高騰による負担増を踏まえ、住民税非課税世帯等に緊急支援給付金を支給します。](https://rarea.events/rarea/wp-content/uploads/2023/06/7.pdf) (町内会１部)
 - [令和５年度戸塚区区民意識調査を実施しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/06/8.pdf) (町内会１部)
 ## 2023年 5月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/05/677e33f1f7bf48c389362023843bc065.pdf)
 ### 掲示板
 - [「公園愛護会のつどい及び公園愛護会展示会」を開催しますので、チラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2023/05/01-1.pdf)
 ### その他
@@ -148,6 +168,8 @@
 - [市素案の説明会を開催しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/05/1d74731f433b9655f216758bb089ba24.pdf) (町内会１部)
 - [令和５年度戸塚区運営方針を策定しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/05/974cfabe9c3fa6503ff54fdd4d225bdf.pdf) (情報提供)
 ## 2023年 4月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2023/04/b935bff3c2138bf2c62a924592139189.pdf)
 ### 掲示板
 - [令和５年度家庭防災員研修について、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/04/20230406-4-1.pdf)
 - [防災研修用ウェブサイトを新設しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2023/04/07.pdf)
