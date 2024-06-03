@@ -1,1 +1,34 @@
 # make-link-list
+## 概要
+戸塚区の行政関係情報のURLを取得するスクリプト。
+
+### get_from_kurenkai.py
+[定例会の日程・配布資料／事業計画・予算について【戸塚区連会】](https://rarea.events/event/97066)の
+令和6年度、令和5年度の各月のページのリンクからjson,markdownファイルを生成する。
+出力ファイルは、
+- [kurenkai.json](https://github.com/katonobu/make-link-list/blob/main/kurenkai.json)
+- [kurenkai.md](https://github.com/katonobu/make-link-list/blob/main/kurenkai.md)
+
+### get_sakuradayori.py
+[横浜市上倉田地域ケアプラザ ブログ](http://www.hirakukaicp.or.jp/kamikurata-blog)の広報さくらだより、のリンクページから、
+対象ページ、各ページの画像データへのリンクを抽出しjson,markdownファイルを生成する。
+出力ファイルは、
+- [sakuradayori.json](https://github.com/katonobu/make-link-list/blob/main/sakuradayori.json)
+- [sakuradayori.md](https://github.com/katonobu/make-link-list/blob/main/sakuradayori.md)
+
+## 実行方法
+### windows
+- pythonがインストールされてる前提
+- `01_setup.bat` を実行し、仮想環境を作り必要なライブラリをインストールする。
+- `02_run_all.bat`を実行し、上記スクリプトを実行する。
+
+### code space
+- githubでcode spaceで実行する。
+
+## 課題
+### 区連会
+- リンク先のpdfは前半に説明ページがついている。
+  - ダウンロードして必要なページのみを抽出する必要あり。
+### さくらだより
+- 画像がpngあるいはgif
+  - pdfを置いてもらえると嬉しい。
