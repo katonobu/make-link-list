@@ -30,6 +30,14 @@
 - [flat_station.json](https://github.com/katonobu/make-link-list/blob/main/flat_station.json)
 - [flat_station.md](https://github.com/katonobu/make-link-list/blob/main/flat_station.md)
 
+### get_kurashi_navi.py
+[横浜市消費生活総合センター くらしナビ(最新号)](https://www.yokohama-consumer.or.jp/publish/lifenavi/index.html)、および、下部のバックナンバーから、
+最新号pdfのリンクと、バックナンバーのリンク一式を抽出し、
+json,markdownファイルを生成する。
+出力ファイルは、
+- [kurashi_navi.json](https://github.com/katonobu/make-link-list/blob/main/kurashi_navi.json)
+- [kurashi_navi.md](https://github.com/katonobu/make-link-list/blob/main/kurashi_navi.md)
+
 ## 実行方法
 ### windows
 - pythonがインストールされてる前提
@@ -58,3 +66,7 @@
 - pdfが見開きになっているのが残念。
 - pdfは最新版しかない。
   - 最低月一回ローカルにダウンロードしておく必要あり。
+
+### くらしナビ
+- 各自治会毎に1部しか来ていなかったため、回覧非対象ったが、結構内容濃いので追加。
+- 凝ってるのでpdfファイルサイズがでかいのが残念。
