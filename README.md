@@ -23,6 +23,13 @@
 - [chiku_center.json](https://github.com/katonobu/make-link-list/blob/main/chiku_center.json)
 - [chiku_center.md](https://github.com/katonobu/make-link-list/blob/main/chiku_center.md)
 
+### get_flat_station.py
+[フラットステーション・とつか 情報誌『わくわくだより』](https://furatto-totsuka.com/wp/news-letter/)のページから、
+最新版pdfのdownloadリンク(1-4P,2-3P,イベント予定表)を抽出し、json,markdownファイルを生成する。
+出力ファイルは、
+- [flat_station.json](https://github.com/katonobu/make-link-list/blob/main/flat_station.json)
+- [flat_station.md](https://github.com/katonobu/make-link-list/blob/main/flat_station.md)
+
 ## 実行方法
 ### windows
 - pythonがインストールされてる前提
@@ -43,5 +50,11 @@
   - pdfを置いてもらえると嬉しい。
 
 ### 地区センター
+- pdfは最新版しかない。
+  - 最低月一回ローカルにダウンロードしておく必要あり。
+
+### フラットステーション・とつか
+- downloadリンクにクエリが含まれてるが、問題ない?
+- pdfが見開きになっているのが残念。
 - pdfは最新版しかない。
   - 最低月一回ローカルにダウンロードしておく必要あり。
