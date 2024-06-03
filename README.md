@@ -16,6 +16,13 @@
 - [sakuradayori.json](https://github.com/katonobu/make-link-list/blob/main/sakuradayori.json)
 - [sakuradayori.md](https://github.com/katonobu/make-link-list/blob/main/sakuradayori.md)
 
+### get_from_chiku_center.py
+[地区センター  地区センターだより](https://totsuka.chiiki-support.jp/centerdayori.html)のページから、
+最新版pdfとバックナンバーのイメージファイルのリンクを抽出し、json,markdownファイルを生成する。
+出力ファイルは、
+- [chiku_center.json](https://github.com/katonobu/make-link-list/blob/main/chiku_center.json)
+- [chiku_center.md](https://github.com/katonobu/make-link-list/blob/main/chiku_center.md)
+
 ## 実行方法
 ### windows
 - pythonがインストールされてる前提
@@ -34,3 +41,7 @@
 ### さくらだより
 - 画像がpngあるいはgif
   - pdfを置いてもらえると嬉しい。
+
+### 地区センター
+- pdfは最新版しかない。
+  - 最低月一回ローカルにダウンロードしておく必要あり。
