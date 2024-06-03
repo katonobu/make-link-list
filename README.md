@@ -23,7 +23,9 @@
 - `02_run_all.bat`を実行し、上記スクリプトを実行する。
 
 ### code space
-- githubでcode spaceで実行する。
+- githubでcode spacesで実行する。
+  - code spacesでpython環境+ライブラリインストールする設定済。
+  - code spacesが立ち上がったら、ターミナルで `./run_all.sh`とすれば、スクリプトが走ってくれる。
 
 ## 課題
 ### 区連会
