@@ -1,9 +1,17 @@
 {
   "latest": {
-    "title": "2024くらナビ増刊号夏号(2.5 MB)",
-    "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/2024_navi_summer.pdf"
+    "title": "月次相談リポート8月号(627.5 KB)",
+    "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n24_8.pdf"
   },
   "backnumbers": [
+    {
+      "title": "月次相談リポート8月号(627.5 KB)",
+      "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n24_8.pdf"
+    },
+    {
+      "title": "月次相談リポート7月号(766.9 KB)",
+      "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n24_7.pdf"
+    },
     {
       "title": "2024くらナビ増刊号夏号(2.5 MB)",
       "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/2024_navi_summer.pdf"
@@ -183,18 +191,6 @@
     {
       "title": "月次相談リポート9月号(696.3 KB)",
       "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n21_9_2.pdf"
-    },
-    {
-      "title": "2021増刊号夏号(1.3 MB)",
-      "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/2021_navi_summer.pdf"
-    },
-    {
-      "title": "月次相談リポート8月号(676.2 KB)",
-      "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n21_8.pdf"
-    },
-    {
-      "title": "月次相談リポート7月号(697.3 KB)",
-      "pdf_url": "https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n21_7.pdf"
     }
   ]
 }

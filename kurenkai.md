@@ -1,4 +1,34 @@
 # 区連会からの情報
+## 2024年 7月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/07/b935bff3c2138bf2c62a924592139189.pdf)
+### 掲示板
+- [戸塚区認知症イベント開催しますので、掲示板へチラシの掲出をお願いいたします。](https://rarea.events/rarea/wp-content/uploads/2024/07/6.pdf)
+- [広報チラシについて、引き続き、可能な範囲で、掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/07/9.pdf)
+### その他
+- [令和６年度共同募金資材を各自治会町内会へ送付します。](https://rarea.events/rarea/wp-content/uploads/2024/07/1.pdf) (依頼)
+- [「共同募金とつかだより」の全戸配布について、ご協力をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/07/2.pdf) (依頼)
+- [「とつかハートプランの推進」を目的とした事業に助成を行っていますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/3.pdf) (情報提供)
+- [区老連や単位老人クラブから、新たなクラブ設置等について相談があった際には、ご協力をよろしくお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/07/4.pdf) (協力依頼)
+- [令和５年度は戸塚区を含む５区で計画の作成を進めましたが、令和６年度は、18区に拡大し、個別避難計画の作成を進めますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/5.pdf) (町内会１部)
+- [災害時のトイレ対策としてトイレパックを、自治会町内会にお配りしますので、お試し用としてご使用ください。](https://rarea.events/rarea/wp-content/uploads/2024/07/7.pdf) (町内会１部)
+- [第５期とつかハートプラン策定に向けて、説明会を開催しますので、各地区から２～３名の参加をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/07/8.pdf) (依頼)
+- [公式マスコットキャラクターの名前の決定と、市民活動において使用できる「応援メッセージ付き公式ロゴマーク」を博覧会協会が作成しましたので、情報提供します。](https://rarea.events/rarea/wp-content/uploads/2024/07/10.pdf) (町内会１部)
+- [理解促進のため、地域の皆さまを対象に、地域説明会を実施しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/11.pdf) (町内会１部)
+- [「住んでいてよかったと思える地域」を自分たちの手で実現する手法を学ぶとつかさくら塾を開催しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/12.pdf) (町内会１部)
+- [スマートフォン一つで子育てに関する様々な手続や情報収集が可能になる、子育て応援アプリ「パマトコ」（ＷＥＢ版）を７月１日にリリースしましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/13.pdf) (情報提供)
+- [子どもの安全・安心を守るため、「こども・交通事故データマップ」に、防犯情報を加えた「こども・安全安心マップ」を公開しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/14.pdf) (町内会１部)
+- [「自治会町内会館脱炭素化推進事業補助金」について、申請期限を延長しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/15.pdf) (町内会１部)
+## 2024年 6月
+### その他
+- [令和６年度戸塚区スポーツ協会会費をお納めください。納入期限：９月30日](https://rarea.events/rarea/wp-content/uploads/2024/06/928959b07463402470403a5ea0ef1fd2.pdf) (依頼)
+- [令和６年度戸塚区社会福祉協議会一般会費・世帯会費をお納めください。納入期限：７月末](https://rarea.events/rarea/wp-content/uploads/2024/06/2.pdf) (依頼)
+- [テレビを使った情報伝達サービスに対して補助金を交付しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/06/03.pdf) (町内会１部)
+- [シェアサイクル事業についてお知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/06/51d693eedbc716b04087652a78d75a16.pdf) (町内会１部)
+- [河川愛護月間において、河川・水路・側溝の清掃活動の実施について、協力をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/06/05.pdf) (町内会１部)
+- [プラスチックごみ分別ルール変更にあたり、リーフレットを各家庭に配布しますのでお知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/06/da61a72588c56849c10839b87e209988.pdf) (情報提供)
+- [東京電力所有の電柱にその場所の想定浸水深を表示する「まるごとまちごとハザードマップ」を設置しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/06/3095b7e48d82fc58dcecf538570411db.pdf) (町内会１部)
+- [都市計画市素案を作成しましたの、説明会等を実施します。](https://rarea.events/rarea/wp-content/uploads/2024/06/2db6b0d298f304e0e15ba5b4fa264803.pdf) (町内会１部)
 ## 2024年 5月
 ### お知らせ
 - [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/05/f160ffd9ed190b273922ec67b74b7d0c.pdf)

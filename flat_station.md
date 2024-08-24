@@ -1,4 +1,4 @@
 # わくわくだより(フラットステーション・とつか)
-- [わくわくだより第123号6月号1-4P](https://furatto-totsuka.com/wp/download/newsletter202406_1-4p/?wpdmdl=3170&refresh=665dcde16f6db1717423585)
-- [わくわくだより第123号6月号2-3P](https://furatto-totsuka.com/wp/download/newsletter202406_2-3p/?wpdmdl=3171&refresh=665dcde17538f1717423585)
-- [2024年6月イベント予定表](https://furatto-totsuka.com/wp/download/eventcalendar202406/?wpdmdl=3172&refresh=665dcde179a6a1717423585)
+- [わくわくだより第125号8月号1-4P](https://furatto-totsuka.com/wp/download/newsletter202408_1-4p/?wpdmdl=3195&refresh=66c9782e1e88e1724479534)
+- [わくわくだより第125号8月号2-3P](https://furatto-totsuka.com/wp/download/newsletter202408_2-3p/?wpdmdl=3199&refresh=66c9782ee50471724479534)
+- [2024年8月イベント予定表](https://furatto-totsuka.com/wp/download/eventcalendar202408/?wpdmdl=3197&refresh=66c9782eef9d61724479534)
