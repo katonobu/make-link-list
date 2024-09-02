@@ -1,4 +1,20 @@
-# わくわくだより(フラットステーション・とつか)
-- [わくわくだより第125号8月号1-4P](https://furatto-totsuka.com/wp/download/newsletter202408_1-4p/?wpdmdl=3195&refresh=66c9782e1e88e1724479534)
-- [わくわくだより第125号8月号2-3P](https://furatto-totsuka.com/wp/download/newsletter202408_2-3p/?wpdmdl=3199&refresh=66c9782ee50471724479534)
-- [2024年8月イベント予定表](https://furatto-totsuka.com/wp/download/eventcalendar202408/?wpdmdl=3197&refresh=66c9782eef9d61724479534)
+# わくわくだより(ふらっとステーション・とつか)
+- わくわくだより第126号9月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202409_1-4p/?wpdmdl=3255&refresh=66d5c0282e4651725284392)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202409_2-3p/?wpdmdl=3251&refresh=66d5c028377291725284392)
+  - [今月のイベント](https://furatto-totsuka.com/wp/download/eventcalendar202409/?wpdmdl=3252&refresh=66d5c028402461725284392)
+- わくわくだより第125号8月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202408_1-4p/?wpdmdl=3195&refresh=66d5b77a3082d1725282170)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202408_2-3p/?wpdmdl=3199&refresh=66d5b77a303261725282170)
+- わくわくだより第124号7月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202407_1-4p/?wpdmdl=3186&refresh=66d5b77a313451725282170)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202407_2-3p/?wpdmdl=3187&refresh=66d5b77a30e061725282170)
+- わくわくだより第123号6月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202406_1-4p/?wpdmdl=3170&refresh=66d5b77a31e0a1725282170)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202406_2-3p/?wpdmdl=3171&refresh=66d5b77a319561725282170)
+- わくわくだより第122号5月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202405_1-4p/?wpdmdl=3157&refresh=66d5b77a324011725282170)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202405_2-3p/?wpdmdl=3156&refresh=66d5b77a327d41725282170)
+- わくわくだより第121号4月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202404_1-4p-2/?wpdmdl=3145&refresh=66d5b77a32faa1725282170)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202404_2-3p/?wpdmdl=3148&refresh=66d5b77a32bdc1725282170)

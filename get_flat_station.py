@@ -4,38 +4,64 @@ from bs4 import BeautifulSoup
 import unicodedata
 
 def get_flat_station():
-    objs = []
     rsp = requests.get("https://furatto-totsuka.com/wp/news-letter/")
     if rsp.ok:
+        items = []
         soup = BeautifulSoup(rsp.content, "html.parser")
-        titles = []
-        urls = []
+        all_title = ""
+        for p_tag in soup.find_all('p'):
+            if p_tag.text.startswith("わくわく"):
+                text = unicodedata.normalize('NFKC',p_tag.text)
+                if text.startswith("わくわくだより第"):
+                    all_title = text.replace("を発行いたしました。","")
         for a_tag in soup.find_all('a'):
-            if a_tag.text.startswith("わくわく") or a_tag.text.endswith("予定表"):
-                titles.append(unicodedata.normalize('NFKC',a_tag.text))
             if a_tag.text == "ダウンロード":
-                urls.append(a_tag.get('data-downloadurl'))
-        if len(titles) == len(urls):
-            for title, url in zip(titles, urls):
-                objs.append({'title':title, 'url':url})
-    return objs
+                url = a_tag.get('data-downloadurl')
+                tail = url.split("/")[-2]
+                if tail.startswith("newsletter"):
+                    if tail.endswith("4p"):
+                        items.append({
+                            'title':"1-4P",
+                            'url':url
+                        })
+                    elif tail.endswith("3p"):
+                        items.append({
+                            'title':"2-3P",
+                            'url':url
+                        })
+                elif tail.startswith("event"):
+                        items.append({
+                            'title':"今月のイベント",
+                            'url':url
+                        })
+        return {
+            "title":all_title,
+            "items":items
+        }
+    return None
 
 if __name__ == "__main__":
-    links = get_flat_station()
+    new_obj = get_flat_station()
+    print(json.dumps(new_obj, indent=2, ensure_ascii=False))
 
-    with open("flat_station.json", "w", encoding='utf-8') as f:
-        json.dump(links, f, indent=2, ensure_ascii=False)
-    print(json.dumps(links, indent=2, ensure_ascii=False))
+    with open("flat_station.json", encoding='utf-8') as f:
+        prev_obj = json.load(f)
+    matched_item = [obj for obj in prev_obj if 'title' in obj and obj['title'] == new_obj['title']]
+    if 0 < len(matched_item):
+        pass
+    else:
+        new_obj = [new_obj] + prev_obj
 
-    ols = []
-#    ols.append("# 目次")
-#    ols.append('<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->')
-    ols.append("# わくわくだより(フラットステーション・とつか)")
-    for item in links:
-        ols.append(f"- [{item['title']}]({item['url']})")
+        with open("flat_station.json", "w", encoding='utf-8') as f:
+            json.dump(new_obj, f, indent=2, ensure_ascii=False)
+        print(json.dumps(new_obj, indent=2, ensure_ascii=False))
 
-    with open("flat_station.md", "w", encoding='utf-8') as f:
-        f.writelines('\n'.join(ols))
+        ols = []
+        ols.append("# わくわくだより(ふらっとステーション・とつか)")
+        for month in new_obj:
+            ols.append(f"- {month['title']}")
+            for item in month['items']:
+                ols.append(f"  - [{item['title']}]({item['url']})")
 
-
-
+        with open("flat_station.md", "w", encoding='utf-8') as f:
+            f.writelines('\n'.join(ols))
