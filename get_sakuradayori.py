@@ -31,7 +31,7 @@ def get_sakura_dayori_urls():
                 for images in soup.find_all('img'):
                     src = images.get('src')
                     filename = src.split("/")[-1]
-                    if filename.startswith("さくら") or filename.startswith("広報さくら"):
+                    if filename.startswith("さくら") or filename.startswith("広報さくら") or filename.startswith("広報紙"):
                         for idx, num in enumerate(["①","②","③","④"]):
                             if filename.endswith(f"{num}.png") or filename.endswith(f"{num}.gif"):
                                 sakura_obj.update({f'page_{idx+1}':src})
@@ -50,13 +50,15 @@ if __name__ == "__main__":
 #    ols.append('<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->')
     ols.append("# さくらだより")
     for month in links:
-        ols.append(f"## {month['title']} ({month['year']}/{month['month']})")
-        ols.append(f"- [ブログページ]({month['page_url']})")
-        ols.append(f"    - [1ページ目]({month['page_1']})")
-        ols.append(f"    - [2ページ目]({month['page_2']})")
-        ols.append(f"    - [3ページ目]({month['page_3']})")
-        ols.append(f"    - [4ページ目]({month['page_4']})")
-
+        try:
+            ols.append(f"## {month['title']} ({month['year']}/{month['month']})")
+            ols.append(f"- [ブログページ]({month['page_url']})")
+            ols.append(f"    - [1ページ目]({urllib.parse.quote(month['page_1'], safe='/:')})")
+            ols.append(f"    - [2ページ目]({urllib.parse.quote(month['page_2'], safe='/:')})")
+            ols.append(f"    - [3ページ目]({urllib.parse.quote(month['page_3'], safe='/:')})")
+            ols.append(f"    - [4ページ目]({urllib.parse.quote(month['page_4'], safe='/:')})")
+        except Exception:
+            print(f"Error:{json.dumps(month, indent=2, ensure_ascii=False)}")
     with open("sakuradayori.md", "w", encoding='utf-8') as f:
         f.writelines('\n'.join(ols))
 
