@@ -1,4 +1,4 @@
-# わくわくだより(ふらっとステーション・とつか)
+# ふらっとステーション・とつか
 - わくわくだより第126号9月号
   - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202409_1-4p/?wpdmdl=3255&refresh=66d5c0282e4651725284392)
   - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202409_2-3p/?wpdmdl=3251&refresh=66d5c028377291725284392)

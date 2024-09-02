@@ -57,7 +57,7 @@ if __name__ == "__main__":
         print(json.dumps(new_obj, indent=2, ensure_ascii=False))
 
         ols = []
-        ols.append("# わくわくだより(ふらっとステーション・とつか)")
+        ols.append("# ふらっとステーション・とつか")
         for month in new_obj:
             ols.append(f"- {month['title']}")
             for item in month['items']:
