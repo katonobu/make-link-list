@@ -1,4 +1,8 @@
 # ふらっとステーション・とつか
+- わくわくだより第127号10月号
+  - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202410_1%ef%bc%8d4p/?wpdmdl=3264&refresh=67134b8ccf8e51729317772)
+  - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202410_2-3p/?wpdmdl=3265&refresh=67134b8dcb9a21729317773)
+  - [今月のイベント](https://furatto-totsuka.com/wp/download/eventcaledar202410/?wpdmdl=3268&refresh=67134b8dd10711729317773)
 - わくわくだより第126号9月号
   - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202409_1-4p/?wpdmdl=3255&refresh=66d5c0282e4651725284392)
   - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202409_2-3p/?wpdmdl=3251&refresh=66d5c028377291725284392)

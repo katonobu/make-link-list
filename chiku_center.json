@@ -1,7 +1,15 @@
 {
-  "pdf_title": "地区センターだより9月号",
-  "pdf_url": "https://totsuka.chiiki-support.jp/dataimge/1724719665.pdf",
+  "pdf_title": "地区センターだより10月号",
+  "pdf_url": "https://totsuka.chiiki-support.jp/dataimge/1727344938.pdf",
   "backnumbers": [
+    {
+      "title": "10月地区センターだより（表面）",
+      "url": "dataimge/1727344610.jpg"
+    },
+    {
+      "title": "10月地区センターだより（裏面）",
+      "url": "dataimge/1727344622.jpg"
+    },
     {
       "title": "9月地区センターだより（表面）",
       "url": "dataimge/1724719502.jpg"
@@ -12,7 +20,7 @@
     },
     {
       "title": "8月地区センターだより（表面）",
-      "url": "dataimge/1721962064.jpg"
+      "url": "dataimge/1725775469.jpg"
     },
     {
       "title": "8月地区センターだより（裏面）",
@@ -49,22 +57,6 @@
     {
       "title": "4月地区センターだより（裏面）",
       "url": "dataimge/1711610939.jpg"
-    },
-    {
-      "title": "2024年3月号（表面）",
-      "url": "dataimge/1708910693.jpg"
-    },
-    {
-      "title": "2024年3月号（裏面）",
-      "url": "dataimge/1708910718.jpg"
-    },
-    {
-      "title": "2024年2月号（表面）",
-      "url": "dataimge/1706572834.jpg"
-    },
-    {
-      "title": "2024年2月号（裏面）",
-      "url": "dataimge/1706572845.jpg"
     }
   ]
 }

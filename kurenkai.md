@@ -1,4 +1,28 @@
 # 区連会からの情報
+## 2024年 10月
+### 掲示板
+- [秋の火災予防運動を実施しますので、掲示板へのポスター掲出をお願いします。運動期間：11月９日～11月15日](https://rarea.events/rarea/wp-content/uploads/2024/10/3.pdf)
+### その他
+- [みどりアップ計画５か年の取組の成果をまとめたので、ご報告します。](https://rarea.events/rarea/wp-content/uploads/2024/10/f4b8af2068a57f3ee11b1bf75d8bf16c.pdf) (町内会１部)
+- [12月31日（火）から1月3日（金）まで、お休みになりますのでご注意ください。](https://rarea.events/rarea/wp-content/uploads/2024/10/2.pdf) (情報提供)
+- [国民健康保険、後期高齢者医療制度における健康保険証の新規交付が廃止されますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/10/ff48381e5e61638c9dae6a31b63529ee.pdf) (町内会１部)
+- [「こども、みんなが主役！よこはまわくわくプラン」素案についてパブリックコメントを実施します。意見募集期間10月17日（木）～11月15日（金）](https://rarea.events/rarea/wp-content/uploads/2024/10/5.pdf) (町内会１部)
+- [戸塚駅東口駅前広場のタクシー乗り場を、外周部へ移設するための工事を行いますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/10/6.pdf) (町内会１部)
+- [地域向け「特別市」制度に関する説明会を開催しますので、お知らせします。申込期日 11月18日（月）](https://rarea.events/rarea/wp-content/uploads/2024/10/058a843a9f206775a165c4f92223d720-1.pdf) (町内会１部)
+## 2024年 9月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/09/b935bff3c2138bf2c62a924592139189.pdf)
+### 掲示板
+- [講演会を開催しますので、掲示板へのチラシの掲出をお願いいたします。](https://rarea.events/rarea/wp-content/uploads/2024/09/4.pdf)
+- [災害時医療のぼり旗掲出訓練を実施しますので、チラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/09/5.pdf)
+- [「2024とつか宿場まつり」を開催しますので、チラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/09/8.pdf)
+### その他
+- [令和６年度の戸別募金について、協力を依頼します。](https://rarea.events/rarea/wp-content/uploads/2024/09/1.pdf) (依頼)
+- [防災意識の啓発や食品ロス削減の観点から、賞味期限内の備蓄食料を無償でお配りしますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/09/2.pdf) (町内会１部)
+- [消費生活推進員制度について、今期の委嘱期間をもって、休止することを検討しましたが、引き続き各区の実情に応じた運用とすることになりましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/09/3.pdf) (情報提供)
+- [新たな大都市制度「特別市」の実現に向けた機運醸成の取組として、特別市シンポジウムを開催しますので、ご案内します。](https://rarea.events/rarea/wp-content/uploads/2024/09/6.pdf) (町内会１部)
+- [改定素案を作成しましたので、説明会等を実施します。](https://rarea.events/rarea/wp-content/uploads/2024/09/7.pdf) (情報提供)
+- [当補助金について、２回目の申請も可能ですので、ご検討をお願いします。申請期限：10月31日（木）](https://rarea.events/rarea/wp-content/uploads/2024/09/9.pdf) (町内会１部)
 ## 2024年 7月
 ### お知らせ
 - [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/07/b935bff3c2138bf2c62a924592139189.pdf)
