@@ -1,5 +1,7 @@
 # 区連会からの情報
 ## 2024年 10月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/10/3d0698db384595a539e373371d034e36.pdf)
 ### 掲示板
 - [秋の火災予防運動を実施しますので、掲示板へのポスター掲出をお願いします。運動期間：11月９日～11月15日](https://rarea.events/rarea/wp-content/uploads/2024/10/3.pdf)
 ### その他
@@ -44,6 +46,8 @@
 - [子どもの安全・安心を守るため、「こども・交通事故データマップ」に、防犯情報を加えた「こども・安全安心マップ」を公開しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/14.pdf) (町内会１部)
 - [「自治会町内会館脱炭素化推進事業補助金」について、申請期限を延長しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/07/15.pdf) (町内会１部)
 ## 2024年 6月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/06/3d0698db384595a539e373371d034e36.pdf)
 ### その他
 - [令和６年度戸塚区スポーツ協会会費をお納めください。納入期限：９月30日](https://rarea.events/rarea/wp-content/uploads/2024/06/928959b07463402470403a5ea0ef1fd2.pdf) (依頼)
 - [令和６年度戸塚区社会福祉協議会一般会費・世帯会費をお納めください。納入期限：７月末](https://rarea.events/rarea/wp-content/uploads/2024/06/2.pdf) (依頼)
@@ -113,6 +117,8 @@
 - [防犯カメラを設置する際に費用の一部を補助する「地域防犯カメラ設置補助制度」を実施します。申請期限：令和６年７月31日（水）](https://rarea.events/rarea/wp-content/uploads/2024/03/13.pdf) (町内会１部)
 - [自治会町内会のデジタル活用に関する取組状況や活動拠点（会館等）に関するアンケートについて、ご協力をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/03/257397183139701dc2e5d2e082c02c5b.pdf) (町内会１部)
 ## 2024年 2月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/02/3d0698db384595a539e373371d034e36.pdf)
 ### 掲示板
 - [春の火災予防運動のポスター掲示をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/02/2.pdf)
 - [「とつか減災フェア」及び「防災講演会」チラシの掲示板への掲出をお願いいたします。](https://rarea.events/rarea/wp-content/uploads/2024/02/9c02f10bb301f37ffd1b96f13083b070.pdf)

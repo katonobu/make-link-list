@@ -115,7 +115,7 @@ def extract_items_from_html(url):
                     items.append(obj)
                     obj = {}
                 else:
-                    if txt.startswith("1　お知らせ（警察・消防・ごみ量）") and p.find('a'):
+                    if txt.startswith("1　お知らせ（警察・消防") and p.find('a'):
                         items.append({
                             'index':0,
                             'title':'警察・消防・ごみ量',

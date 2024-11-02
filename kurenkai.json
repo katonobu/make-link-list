@@ -55,6 +55,14 @@
     ],
     "items_from_html": [
       {
+        "index": 0,
+        "title": "警察・消防・ごみ量",
+        "detail": [
+          "お知らせ（警察・消防・ごみ量）"
+        ],
+        "url": "https://rarea.events/rarea/wp-content/uploads/2024/10/3d0698db384595a539e373371d034e36.pdf"
+      },
+      {
         "index": 1,
         "title": "横浜みどりアップ計画〔2019-2023〕５か年の実績報告について【市連会議題】",
         "detail": [
@@ -112,6 +120,14 @@
       }
     ],
     "items": [
+      {
+        "index": 0,
+        "title": "お知らせ（警察・消防・ごみ量）",
+        "section": "警察・消防・ごみ量",
+        "type": "お知らせ",
+        "description": "警察、消防、環境からのお知らせ",
+        "url": "https://rarea.events/rarea/wp-content/uploads/2024/10/3d0698db384595a539e373371d034e36.pdf"
+      },
       {
         "index": 1,
         "title": "横浜みどりアップ計画〔2019-2023〕５か年の実績報告について【市連会議題】",
@@ -837,6 +853,14 @@
     ],
     "items_from_html": [
       {
+        "index": 0,
+        "title": "警察・消防・ごみ量",
+        "detail": [
+          "お知らせ（警察・消防・ごみ量）"
+        ],
+        "url": "https://rarea.events/rarea/wp-content/uploads/2024/06/3d0698db384595a539e373371d034e36.pdf"
+      },
+      {
         "index": 1,
         "title": "2024年度戸塚区スポーツ協会の会費納入について",
         "detail": [
@@ -902,6 +926,14 @@
       }
     ],
     "items": [
+      {
+        "index": 0,
+        "title": "お知らせ（警察・消防・ごみ量）",
+        "section": "警察・消防・ごみ量",
+        "type": "お知らせ",
+        "description": "警察、消防、環境からのお知らせ",
+        "url": "https://rarea.events/rarea/wp-content/uploads/2024/06/3d0698db384595a539e373371d034e36.pdf"
+      },
       {
         "index": 1,
         "title": "2024年度戸塚区スポーツ協会の会費納入について",
@@ -2119,6 +2151,14 @@
     ],
     "items_from_html": [
       {
+        "index": 0,
+        "title": "警察・消防・ごみ量",
+        "detail": [
+          "お知らせ（警察・消防・ごみ量）"
+        ],
+        "url": "https://rarea.events/rarea/wp-content/uploads/2024/02/3d0698db384595a539e373371d034e36.pdf"
+      },
+      {
         "index": 1,
         "title": "令和６年度各種広報紙配布のお願いについて【市連会議題】",
         "detail": [
@@ -2208,6 +2248,14 @@
       }
     ],
     "items": [
+      {
+        "index": 0,
+        "title": "お知らせ（警察・消防・ごみ量）",
+        "section": "警察・消防・ごみ量",
+        "type": "お知らせ",
+        "description": "警察、消防、環境からのお知らせ",
+        "url": "https://rarea.events/rarea/wp-content/uploads/2024/02/3d0698db384595a539e373371d034e36.pdf"
+      },
       {
         "index": 1,
         "title": "令和６年度各種広報紙配布のお願いについて【市連会議題】",
