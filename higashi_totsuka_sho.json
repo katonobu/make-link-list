@@ -1,44 +1,122 @@
 [
   {
-    "month": 11,
-    "update_at": "2024-10-31 19:38:24",
-    "pdf_title": "11月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20241031-193824.pdf"
+    "nendo_str": "令和６年度",
+    "url": "https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,0,52,267,html",
+    "results": [
+      {
+        "update_ts": 1730403504.0,
+        "update_at": "2024-10-31 19:38:24",
+        "pdf_title": "11月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20241031-193824.pdf"
+      },
+      {
+        "update_ts": 1728562235.0,
+        "update_at": "2024-10-10 12:10:35",
+        "pdf_title": "10月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20241010-121035.pdf"
+      },
+      {
+        "update_ts": 1725363249.0,
+        "update_at": "2024-09-03 11:34:09",
+        "pdf_title": "９月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240903-113409.pdf"
+      },
+      {
+        "update_ts": 1719857048.0,
+        "update_at": "2024-07-01 18:04:08",
+        "pdf_title": "７月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240701-180408.pdf"
+      },
+      {
+        "update_ts": 1717179203.0,
+        "update_at": "2024-05-31 18:13:23",
+        "pdf_title": "６月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240531-181323.pdf"
+      },
+      {
+        "update_ts": 1715158917.0,
+        "update_at": "2024-05-08 09:01:57",
+        "pdf_title": "５月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240508-090157.pdf"
+      },
+      {
+        "update_ts": 1712771733.0,
+        "update_at": "2024-04-10 17:55:33",
+        "pdf_title": "４月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240410-175533.pdf"
+      }
+    ]
   },
   {
-    "month": 10,
-    "update_at": "2024-10-10 12:10:35",
-    "pdf_title": "10月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20241010-121035.pdf"
-  },
-  {
-    "month": 9,
-    "update_at": "2024-09-03 11:34:09",
-    "pdf_title": "９月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240903-113409.pdf"
-  },
-  {
-    "month": 7,
-    "update_at": "2024-07-01 18:04:08",
-    "pdf_title": "７月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240701-180408.pdf"
-  },
-  {
-    "month": 6,
-    "update_at": "2024-05-31 18:13:23",
-    "pdf_title": "６月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240531-181323.pdf"
-  },
-  {
-    "month": 5,
-    "update_at": "2024-05-08 09:01:57",
-    "pdf_title": "５月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240508-090157.pdf"
-  },
-  {
-    "month": 4,
-    "update_at": "2024-04-10 17:55:33",
-    "pdf_title": "４月号",
-    "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20240410-175533.pdf"
+    "nendo_str": "令和５年度",
+    "url": "https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,0,52,260,html",
+    "results": [
+      {
+        "update_ts": 1709319203.0,
+        "update_at": "2024-03-01 18:53:23",
+        "pdf_title": "３月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20240301-185323.pdf"
+      },
+      {
+        "update_ts": 1706865434.0,
+        "update_at": "2024-02-02 09:17:14",
+        "pdf_title": "２月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20240202-091714.pdf"
+      },
+      {
+        "update_ts": 1704800965.0,
+        "update_at": "2024-01-09 11:49:25",
+        "pdf_title": "１月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20240109-114925.pdf"
+      },
+      {
+        "update_ts": 1701343217.0,
+        "update_at": "2023-11-30 11:20:17",
+        "pdf_title": "12月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20231130-112017.pdf"
+      },
+      {
+        "update_ts": 1699351789.0,
+        "update_at": "2023-11-07 10:09:49",
+        "pdf_title": "11月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20231107-100949.pdf"
+      },
+      {
+        "update_ts": 1696014575.0,
+        "update_at": "2023-09-29 19:09:35",
+        "pdf_title": "10月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20230929-190935.pdf"
+      },
+      {
+        "update_ts": 1693577040.0,
+        "update_at": "2023-09-01 14:04:00",
+        "pdf_title": "９月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20230901-140400.pdf"
+      },
+      {
+        "update_ts": 1688145839.0,
+        "update_at": "2023-06-30 17:23:59",
+        "pdf_title": "７月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20230630-172359.pdf"
+      },
+      {
+        "update_ts": 1685562492.0,
+        "update_at": "2023-05-31 19:48:12",
+        "pdf_title": "６月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20230531-194812.pdf"
+      },
+      {
+        "update_ts": 1683446633.0,
+        "update_at": "2023-05-07 08:03:53",
+        "pdf_title": "５月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20230507-080353.pdf"
+      },
+      {
+        "update_ts": 1681298948.0,
+        "update_at": "2023-04-12 11:29:08",
+        "pdf_title": "４月号",
+        "pdf_url": "/school/es/higashitotsuka/index.cfm/1,4396,c,html/4396/20230412-112908.pdf"
+      }
+    ]
   }
 ]
