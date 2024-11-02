@@ -1,4 +1,7 @@
+- [吉田矢部地区](https://github.com/katonobu/make-link-list/blob/main/yoshidayabe.md)
 - [戸塚区](https://github.com/katonobu/make-link-list/blob/main/kurenkai.md)
+- [東戸塚小学校](https://github.com/katonobu/make-link-list/blob/main/higashi_totsuka_sho.md)
+- [舞岡中学校](https://github.com/katonobu/make-link-list/blob/main/maioka_chu.md)
 - [上倉田地域ケアプラザ](https://github.com/katonobu/make-link-list/blob/main/sakuradayori.md)
 - [戸塚地区センター](https://github.com/katonobu/make-link-list/blob/main/chiku_center.md)
 - [フラットステーション](https://github.com/katonobu/make-link-list/blob/main/flat_station.md)

@@ -5,3 +5,5 @@ python3 get_sakuradayori.py
 python3 get_from_chiku_center.py
 python3 get_flat_station.py
 python3 get_kurashi_navi.py
+python3 get_higashitotuka_sho.py
+python3 get_maioka_chu.py
