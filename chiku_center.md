@@ -1,6 +1,6 @@
 # 地区センターだより
 ## 最新号
-[地区センターだより10月号](https://totsuka.chiiki-support.jp/dataimge/1727344938.pdf) 2024-09-26 10:02:18更新
+[地区センターだより11月号](https://totsuka.chiiki-support.jp/dataimge/1730178382.pdf) 2024-10-29 05:06:22更新
 ## バックナンバー
 - [10月地区センターだより（表面）](https://totsuka.chiiki-support.jp/dataimge/1727344610.jpg) 2024-09-26 09:56:50更新
 - [10月地区センターだより（裏面）](https://totsuka.chiiki-support.jp/dataimge/1727344622.jpg) 2024-09-26 09:57:02更新
