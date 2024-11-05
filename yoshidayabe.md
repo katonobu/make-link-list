@@ -5,9 +5,8 @@
   - [ポスター](https://drive.google.com/file/d/1mXC4-KBLX0-UTaXbw6VzXzfyb50sNviI/view)
 
 - 2024/11/9(日) 花火大会のお知らせ
-  - 2024/11/9(日) 19:00より吉田矢部地区主催花火大会が開催されます。
-  - 例年通り、日立駐車場を開放していただけます。
-  - 今年は、花火打ち上げ終了時、空砲を打ちます。
-  - 当日の開催/中止情報はここでお知らせいたします。
+  - [ポスター](https://drive.google.com/file/d/1_uLgRKXWPNE2-sRCUBROXMtV4IGRFzc_/view?usp=sharing)
+  - 花火打ち上げ終了時、空砲により終了をお知らせします。
+  - 悪天、諸事情による開催/中止情報はここでお知らせいたします。
 
 ##### バックナンバー
