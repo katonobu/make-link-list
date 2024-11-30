@@ -1,4 +1,22 @@
 # 区連会からの情報
+## 2024年 11月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/11/b07b93d0178fceb0e702e4c998009909.pdf)
+### 掲示板
+- [令和７年４月から横浜市の公園は禁煙となりますので、掲示板へのチラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/11/8f45f7668ec326a3471c616887fe326c.pdf)
+- [戸塚区消防出初式を実施しますので、掲示板へのポスター掲出をお願いします。日時：令和７年１月11日（土）10時～ 式典ほか11時50分～ 一斉放水](https://rarea.events/rarea/wp-content/uploads/2024/11/ilovepdf_merged-2.pdf)
+- [12月31日（火）から1月3日（金）まで、お休みになりますのでご注意ください。掲示板へのチラシの掲出をお願いします。](https://rarea.events/rarea/wp-content/uploads/2024/11/5-2.pdf)
+### その他
+- [障害者週間シンポジウムを開催しますので、お知らせします。開催日：12月３日（火）](https://rarea.events/rarea/wp-content/uploads/2024/11/ilovepdf_merged-1.pdf) (情報提供)
+- [下水道関係者などを装った不審な訪問が増えていますので、不審な訪問・電話にはご注意ください。](https://rarea.events/rarea/wp-content/uploads/2024/11/4.pdf) (町内会１部)
+- [一般廃棄物処理基本計画「ヨコハマ３Ｒ夢プラン」の目標達成、プラスチックごみの分別・リサイクルの拡大開始について、情報提供します。](https://rarea.events/rarea/wp-content/uploads/2024/11/6-2.pdf) (情報提供)
+- [横浜市国民健康保険、後期高齢者医療制度の被保険者様向けにマイナ保険証移行に係る専用コールセンターを設置しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/11/7.pdf) (町内会１部)
+- [戸塚区民生委員児童委員協議会広報誌「のばそう愛の手第39号」を発行しましたので、班回覧をお願いいたします。](https://rarea.events/rarea/wp-content/uploads/2024/11/b3871d6697091f8473c62bf625f311e3.pdf) (班回覧)
+- [「新たな地震防災戦略」の素案を12 月中旬に公表し、市民意見募集を行いますので、お知らせします。募集期間：12月中旬から令和７年１月中旬まで](https://rarea.events/rarea/wp-content/uploads/2024/11/9.pdf) (町内会１部)
+- [エコハマ（横浜市エコ家電応援キャンペーン第２弾）は、予算上限に到達したため、11月５日(火)に早期終了いたしましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/11/10.pdf) (情報提供)
+- [自治会町内会活動におけるデジタルツールの活用（回覧板や会費集金等のデジタル化）に関するDX展示・相談会を市内３か所で開催しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/11/11.pdf) (町内会１部)
+- [「自治会町内会のための講習会」について、事例発表の様子を収録した動画をYouTubeにて配信しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2024/11/12.pdf) (町内会１部)
+- [スポーツ推進委員等（５委員）の推薦について、ご協力をお願いします。提出期限：令和７年２月21日（金）](https://rarea.events/rarea/wp-content/uploads/2024/11/dennshishi_system-1-1.pdf) (町内会１部)
 ## 2024年 10月
 ### お知らせ
 - [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/10/3d0698db384595a539e373371d034e36.pdf)
