@@ -1,7 +1,8 @@
 # くらしなび
 ## 最新号
-- [2024くらナビ増刊号冬号(2.4 MB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/2024_navi_winter.pdf)
+- [月次相談リポート2月号(581.9 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n25_2.pdf)
 ## バックナンバー
+- [月次相談リポート1月号(626.3 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n25_1.pdf)
 - [2024くらナビ増刊号冬号(2.4 MB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/2024_navi_winter.pdf)
 - [月次相談リポート12月号(792.5 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n24_12.pdf)
 - [月次相談リポート11月号(551.4 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n24_11.pdf)
@@ -49,5 +50,3 @@
 - [月次相談リポート3月号(732.3 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n22_3.pdf)
 - [2021くらナビ増刊号冬号(1.3 MB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/2021_navi_winter.pdf)
 - [月次相談リポート2月号(699.7 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n22_2.pdf)
-- [月次相談リポート1月号(713.8 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n22_1.pdf)
-- [月次相談リポート12月号(732.0 KB)](https://www.yokohama-consumer.or.jp/cms_files/publish/pdf/n21_12.pdf)

@@ -1,66 +1,50 @@
-{
-  "pdf_title": "地区センターだより12月号",
-  "pdf_url": "https://totsuka.chiiki-support.jp/dataimge/1732687802.pdf",
-  "backnumbers": [
-    {
-      "title": "地区センターだより11月号",
-      "url": "dataimge/1730178382.pdf"
-    },
-    {
-      "title": "10月地区センターだより（表面）",
-      "url": "dataimge/1727344610.jpg"
-    },
-    {
-      "title": "10月地区センターだより（裏面）",
-      "url": "dataimge/1727344622.jpg"
-    },
-    {
-      "title": "9月地区センターだより（表面）",
-      "url": "dataimge/1724719502.jpg"
-    },
-    {
-      "title": "9月地区センターだより（裏面）",
-      "url": "dataimge/1724729091.jpg"
-    },
-    {
-      "title": "8月地区センターだより（表面）",
-      "url": "dataimge/1725775469.jpg"
-    },
-    {
-      "title": "8月地区センターだより（裏面）",
-      "url": "dataimge/1721960570.jpg"
-    },
-    {
-      "title": "7月地区センターだより（表面）",
-      "url": "dataimge/1719458919.jpg"
-    },
-    {
-      "title": "7月地区センターだより（裏面）",
-      "url": "dataimge/1719458935.jpg"
-    },
-    {
-      "title": "6月地区センターだより（表面）",
-      "url": "dataimge/1716864959.jpg"
-    },
-    {
-      "title": "6月地区センターだより（裏面）",
-      "url": "dataimge/1716864974.jpg"
-    },
-    {
-      "title": "5月地区センターだより（表面）",
-      "url": "dataimge/1714259732.jpg"
-    },
-    {
-      "title": "5月地区センターだより（裏面）",
-      "url": "dataimge/1714259745.jpg"
-    },
-    {
-      "title": "4月地区センターだより（表面）",
-      "url": "dataimge/1711610931.jpg"
-    },
-    {
-      "title": "4月地区センターだより（裏面）",
-      "url": "dataimge/1711610939.jpg"
-    }
-  ]
-}
+[
+  {
+    "title": "地区センターだよりとつか（2月号）",
+    "url": "dataimge/1737591801.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（2月号）",
+    "url": "dataimge/1737591813.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（1月号）",
+    "url": "dataimge/1735013258.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（1月号）",
+    "url": "dataimge/1735013268.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（12月号）",
+    "url": "dataimge/1732687569.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（12月号）",
+    "url": "dataimge/1732687581.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（11月号）",
+    "url": "dataimge/1730178133.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（11月号）",
+    "url": "dataimge/1730178188.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（10月号）",
+    "url": "dataimge/1727344610.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（10月号）",
+    "url": "dataimge/1727344622.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（9月号）",
+    "url": "dataimge/1724719502.jpg"
+  },
+  {
+    "title": "地区センターだよりとつか（9月号）",
+    "url": "dataimge/1724729091.jpg"
+  }
+]

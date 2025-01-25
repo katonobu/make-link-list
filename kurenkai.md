@@ -1,4 +1,15 @@
 # 区連会からの情報
+## 2025年 1月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2025/01/f160ffd9ed190b273922ec67b74b7d0c.pdf)
+### その他
+- [つながるフェスタを開催しますので、お知らせします。開催日：２月１日（土）](https://rarea.events/rarea/wp-content/uploads/2025/01/1.pdf) (情報提供)
+- [これからの下水道による浸水対策をとりまとめた「（仮称）横浜市下水道浸水対策プラン」を新たに策定し、市民意見募集をしますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2025/01/2.pdf) (町内会１部)
+- [LIVE映像通信システム(映像119)という取り組みを行っています。防災指導での通報訓練の際、本システムを活用した新たな訓練メニューが加わりましたのでお知らせします。](https://rarea.events/rarea/wp-content/uploads/2025/01/3.pdf) (町内会１部)
+- [住民票の写し等の証明書の取得の際に活用できるデジタル機器を区役所に設置しましたので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2025/01/4.pdf) (町内会１部)
+- [現在の取組状況と今後の取組とシンポジウム開催について、お知らせします。開催日：令和７年３月８日（土）会場：戸塚区民文化センター さくらプラザホール](https://rarea.events/rarea/wp-content/uploads/2025/01/5.pdf) (町内会１部)
+- [各事業の進捗状況について、情報提供します。](https://rarea.events/rarea/wp-content/uploads/2025/01/6.pdf) (情報提供)
+- [新たにランニングパトロール事業を開始しますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2025/01/7-1.pdf) (町内会１部)
 ## 2024年 11月
 ### お知らせ
 - [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2024/11/b07b93d0178fceb0e702e4c998009909.pdf)
