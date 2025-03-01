@@ -1,17 +1,9 @@
 # 区連会からの情報
 ## 2025年 2月
+### お知らせ
+- [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2025/02/ec00af89e49f2756e8c9a6bd1ef8ade2.pdf)
 ### その他
-- [令和７年度各種広報紙配布について、ご協力お願いします。](https://rarea.events/rarea/wp-content/uploads/2025/02/1.pdf) (情報提供)
 - [「戸塚区保健活動推進員会だより第17号」を発行しましたので、班回覧による周知をお願いします。](https://rarea.events/rarea/wp-content/uploads/2025/02/2.pdf) (班回覧)
-- [民生委員・児童委員の負担軽減・活動支援策の取組状況について、報告します。](https://rarea.events/rarea/wp-content/uploads/2025/02/3.pdf) (町内会１部)
-- [令和７年は、７月に欠員補充及び増員を行い、12月に任期満了に伴う一斉改選を行いますので、候補者の推薦をお願いします。](https://rarea.events/rarea/wp-content/uploads/2025/02/4.pdf) (町内会１部)
-- [令和７年国勢調査実施にあたり、調査員の推薦をお願いします。](https://rarea.events/rarea/wp-content/uploads/2025/02/5.pdf) (依頼)
-- [GREEN×EXPO2027の開催2年前を迎えるにあたり、シンポジウムを開催ｋしますので、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2025/02/6.pdf) (町内会１部)
-- [令和７年度も引き続き、広報よこはま等の広報紙の配布にご協力をお願いします。](https://rarea.events/rarea/wp-content/uploads/2025/02/7.pdf) (町内会１部)
-- [戸塚区環境行動賞「３Ｒまちの美化」功労者の推薦をお願いします。推薦期限：３月18日（火）](https://rarea.events/rarea/wp-content/uploads/2025/02/8.pdf) (依頼)
-- [新年度からの自治会町内会活動支援の主な補助金について、一覧にまとめましたので、情報提供します。](https://rarea.events/rarea/wp-content/uploads/2025/02/9.pdf) (町内会１部)
-- [自治会町内会のデジタル化を進めるため、デジタルツール（アプリ、サービスなど）を紹介する冊子を作成しましたの、お知らせします。](https://rarea.events/rarea/wp-content/uploads/2025/02/10.pdf) (町内会１部)
-- [戸塚区交通安全功労者の推薦をお願いします。推薦期限：３月18日（火）表彰式：６月30日（月）](https://rarea.events/rarea/wp-content/uploads/2025/02/11.pdf) (依頼)
 ## 2025年 1月
 ### お知らせ
 - [警察、消防、環境からのお知らせ](https://rarea.events/rarea/wp-content/uploads/2025/01/f160ffd9ed190b273922ec67b74b7d0c.pdf)
