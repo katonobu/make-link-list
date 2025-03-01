@@ -1,4 +1,6 @@
 # ふらっとステーション・とつか
+- わくわくだより第131号2月号
+  - [今月のイベント](https://furatto-totsuka.com/wp/download/eventcalendar202502/?wpdmdl=3330&refresh=67c2c410020861740817424)
 - わくわくだより第130号1月号
   - [1-4P](https://furatto-totsuka.com/wp/download/newsletter202501_1-4p/?wpdmdl=3310&refresh=67949cd893cd41737792728)
   - [2-3P](https://furatto-totsuka.com/wp/download/newsletter202501_2-3p/?wpdmdl=3311&refresh=67949cd99bfb81737792729)

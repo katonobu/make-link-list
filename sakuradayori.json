@@ -1,5 +1,15 @@
 [
   {
+    "title": "令和7年度3月号",
+    "year": 2025,
+    "month": 3,
+    "page_url": "https://www.hirakukaicp.or.jp/kamikurata/kamikurata-blog/17236",
+    "page_1": "https://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2025/02/広報さくらだより　①.png",
+    "page_2": "https://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2025/02/広報さくらだより　②.png",
+    "page_3": "https://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2025/02/広報さくらだより　③.png",
+    "page_4": "https://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2025/02/広報さくらだより　④.png"
+  },
+  {
     "title": "令和7年度2月号",
     "year": 2025,
     "month": 2,
@@ -134,15 +144,5 @@
     "page_2": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくら②.png",
     "page_3": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくら③.png",
     "page_4": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくら④.png"
-  },
-  {
-    "title": "令和5年12月号",
-    "year": 2023,
-    "month": 12,
-    "page_url": "https://www.hirakukaicp.or.jp/kamikurata/kamikurata-blog/16341",
-    "page_1": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくらだより12月号①.png",
-    "page_2": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくらだより１２月号②.png",
-    "page_3": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくらだより１２月号③.png",
-    "page_4": "http://www.hirakukaicp.or.jp/wpress/wp-content/uploads/2023/12/さくらだより１２月号④.png"
   }
 ]

@@ -1,7 +1,8 @@
 # 舞岡中学校 学校だより
 ## 最新号
-- [1月号](https://www.edu.city.yokohama.lg.jp/school/jhs/maioka/index.cfm/1,1803,c,html/1803/20250116-145757.pdf) 2025-01-16 14:57:57更新
+- [2月号](https://www.edu.city.yokohama.lg.jp/school/jhs/maioka/index.cfm/1,1803,c,html/1803/20250228-193002.pdf) 2025-02-28 19:30:02更新
 ## バックナンバー
+- [1月号](https://www.edu.city.yokohama.lg.jp/school/jhs/maioka/index.cfm/1,1803,c,html/1803/20250116-145757.pdf) 2025-01-16 14:57:57更新
 - [12月号](https://www.edu.city.yokohama.lg.jp/school/jhs/maioka/index.cfm/1,1803,c,html/1803/20241226-134417.pdf) 2024-12-26 13:44:17更新
 - [11月号](https://www.edu.city.yokohama.lg.jp/school/jhs/maioka/index.cfm/1,1803,c,html/1803/20241202-140820.pdf) 2024-12-02 14:08:20更新
 - [10月号](https://www.edu.city.yokohama.lg.jp/school/jhs/maioka/index.cfm/1,1803,c,html/1803/20241031-124723.pdf) 2024-10-31 12:47:23更新

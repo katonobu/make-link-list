@@ -1,8 +1,9 @@
 # 東戸塚小学校 学校だより
 ## 最新号
-- [１月号](https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20250120-201633.pdf) 2025-01-20 20:16:33更新
+- [２月号](https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20250208-155757.pdf) 2025-02-08 15:57:57更新
 ## バックナンバー
 ### 令和６年度
+- [２月号](https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20250208-155757.pdf) 2025-02-08 15:57:57更新
 - [１月号](https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20250120-201633.pdf) 2025-01-20 20:16:33更新
 - [12月号](https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20241202-110728.pdf) 2024-12-02 11:07:28更新
 - [11月号](https://www.edu.city.yokohama.lg.jp/school/es/higashitotsuka/index.cfm/1,4870,c,html/4870/20241031-193824.pdf) 2024-10-31 19:38:24更新
